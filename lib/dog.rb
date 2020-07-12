@@ -13,4 +13,6 @@ class Dog
     @@all
   end
   
+  def self.
+  
 end
