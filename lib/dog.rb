@@ -24,6 +24,8 @@ class Dog
     end
   end
   
+  private
   
+  def 
   
 end
