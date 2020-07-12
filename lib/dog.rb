@@ -26,6 +26,8 @@ class Dog
   
   private
   
-  def 
+  def save
+    
+  end
   
 end
